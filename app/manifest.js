@@ -1,0 +1,1 @@
+export default function manifest(){return{name:"Workora",short_name:"Workora",description:"Compliance-driven workforce infrastructure for Europe",start_url:"/",display:"standalone",background_color:"#f6f9fc",theme_color:"#0b674e",icons:[{src:"/favicon.png",sizes:"64x64",type:"image/png"},{src:"/workora-mark.png",sizes:"512x512",type:"image/png"}]};}

@@ -1,0 +1,3 @@
+import { ImageResponse } from "next/og";
+export const size={width:1200,height:630};export const contentType="image/png";
+export default function Image(){return new ImageResponse(<div style={{width:"100%",height:"100%",display:"flex",flexDirection:"column",justifyContent:"center",padding:80,background:"linear-gradient(135deg,#f6f9fc,#eaf8f3)",color:"#071124"}}><div style={{fontSize:28,color:"#0b674e",fontWeight:800}}>WORKORA</div><div style={{fontSize:78,fontWeight:900,letterSpacing:"-0.06em",lineHeight:1}}>Compliance-driven workforce infrastructure for Europe</div><div style={{fontSize:28,marginTop:28,color:"#5c6f86"}}>Payroll • Workforce Operations • Mobility Support • Compliance Review</div></div>,size)}
