@@ -1,33 +1,36 @@
-# Workora — Legal-Safe Workforce Operations Platform
+# Workora Legal-Safe Website v4
 
-Production-ready Next.js App Router website for Workora.
+Full Next.js App Router website for Workora: compliance-driven workforce operations, payroll infrastructure, mobility support, residence card assistance, work permit coordination, family relocation support, advanced tax calculator, multilingual route structure, SEO pages and legal-safe compliance pages.
 
-## Included
+## Implemented in this version
 
-- Compliance-first homepage
-- Dedicated Compliance & Legal Framework section
-- Dedicated Worker Classification & Compliance page
-- Anti-misclassification framework
-- Contractor assessment framework
-- Client responsibility framework
-- Immigration and residency disclaimers
-- Residence card assistance, work permit coordination, family relocation and legal/tax advisory service pages
-- 12 core SEO landing pages plus compliance and service pages
-- Advanced EU tax/payroll calculator
-- English, Spanish, French, German and Russian language URL structure
-- Sitemap, robots, metadata, Open Graph, favicon and browser logo
-- Mobile-friendly responsive layout
+- Deeper Worker Classification & Compliance page
+- Economic dependency assessment
+- Operational independence review
+- Multi-client analysis
+- Supervision analysis
+- Equipment/control assessment
+- Contractor autonomy review
+- Local-law classification analysis
+- Stronger Client vs Workora responsibility separation
+- More visible immigration and residency disclaimer
+- More explicit jurisdiction restrictions
+- Stronger anti-misclassification rejection wording
+- Operational substance workflows: HR, onboarding, payroll, governance and workforce lifecycle
+- Expanded footer legal links: Compliance Framework, Worker Classification Policy, Anti-Misclassification Policy, Jurisdiction Availability, Immigration Disclaimer, Terms, Privacy, GDPR
+- Fixed navbar logo sizing and favicon/browser icon files
+- SEO architecture: sitemap, robots, schema, metadata, canonical routes and dedicated landing pages
+- Languages included: English, Spanish, French, German, Russian
 
-## Deploy on Vercel
+## Deploy
 
 1. Upload all files and folders in this repository to GitHub.
-2. In Vercel, choose **Add New → Project**.
-3. Import the GitHub repository.
-4. Framework preset: **Next.js**.
-5. Build command: `npm run build`.
-6. Output directory: leave default.
-7. Deploy.
+2. In Vercel, import the GitHub repository.
+3. Framework preset: Next.js.
+4. Build command: `npm run build`.
+5. Output directory: leave default.
+6. Add your domain in Vercel settings.
 
-## Legal note
+## Important
 
-This website text is designed to improve legal defensibility, but it is not a substitute for review by EU labor, payroll, immigration, tax and GDPR counsel before commercial scaling.
+Website content is not legal advice. Before aggressive marketing, have EU labor, payroll, immigration, tax and GDPR counsel review the final business model and country-specific service availability.

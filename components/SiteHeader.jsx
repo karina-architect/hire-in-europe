@@ -7,7 +7,7 @@ export default function SiteHeader({ locale = "en" }) {
   return (
     <header className="siteHeader">
       <Link className="brand" href={localizedPath(locale)} aria-label="Workora home">
-        <Image src="/workora-logo.png" alt="Workora" width={220} height={70} priority className="brandLogo" />
+        <Image src="/workora-logo.png" alt="Workora" width={240} height={58} priority className="brandLogo" />
       </Link>
       <nav className="desktopNav" aria-label="Main navigation">
         <Link href={localizedPath(locale, "hire-employees-in-europe")}>{c.nav.companies}</Link>
